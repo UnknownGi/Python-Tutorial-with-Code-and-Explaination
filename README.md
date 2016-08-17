@@ -23,9 +23,9 @@ This tutorial does not attempt to be comprehensive and cover every single featur
 
 ## Glossary
 
-### Chapter 1 - Whetting your Appetite 
+### Chapter 1 - Whetting your Appetite (Reading)
 
-### Chapter 2 - Using the Python Interpreter
+### Chapter 2 - Using the Python Interpreter (Reading)
 
 1. Invoking the Interpreter
   * Argument Passing
